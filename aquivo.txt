@@ -1,7 +1,4 @@
 arquivo inicial
 comando
-
-
-
-
+nova linha
 
